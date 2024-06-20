@@ -1,0 +1,1 @@
+react native tutorial - creating an application called Sticker Smash. In Sticker Smash you can choose any photo from your library and add an emoji to it, resize the emoji, place it anywhere on the screen, and then save the photo to your device.
